@@ -23,6 +23,6 @@ createRoot(document.getElementById('root')).render(
       <App />
       <Perf position="top-left" />
     </Canvas>
-    {/* <Leva collapsed={false} /> */}
+    <Leva collapsed={false} />
   </StrictMode>,
 )
